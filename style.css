@@ -28,3 +28,33 @@
 .busca{
     
 }
+
+.conteudo{
+    width: 80vw;
+    margin: 0 auto 10vh;
+    background-color: #eee;
+    border: 2px solid #333;
+    border-top:  none;
+    border-radius: 0 0 15px 15px;
+    border-collapse: collapse;
+}
+.conteudo th, .conteudo td{
+    text-align: left;
+    padding: 5px 10px 5px 5px;
+}
+
+
+.topico{
+color: #eee
+}
+
+.topico th{
+color: #333;
+}
+
+.conteudo tr:nth-child(odd) {
+    background-color: #eee;
+}
+.conteudo tr:nth-child(even) {
+    background-color: #ccc;
+}
