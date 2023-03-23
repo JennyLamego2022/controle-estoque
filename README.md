@@ -4,8 +4,10 @@
 
 ### BÁSICO
 
-- [ ] Ter uma lista de produtos, com identificador para cada item 
+- [x] Ter uma lista de produtos, com identificador para cada item 
 - [ ] Criar interface para a lista de produtos
+
+- [ ] Conectar lista de produtos com um banco de dados
 
 - [ ] Poder adicionar um item da lista de produtos
 - [ ] Criar interface para poder adicionar um item na lista de produtos
