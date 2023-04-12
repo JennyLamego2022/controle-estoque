@@ -6,8 +6,9 @@
 
 - [x] Ter uma lista de produtos, com identificador para cada item 
 - [x] Criar interface para a lista de produtos
+- [x] Ler o arquivo  da lista de produtos
 
-- [ ] Conectar lista de produtos com um banco de dados
+- [ ] Conectar lista de produtos com uma API
 
 - [ ] Poder adicionar um item da lista de produtos
 - [ ] Criar interface para poder adicionar um item na lista de produtos
